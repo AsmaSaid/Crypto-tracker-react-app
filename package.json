@@ -1,6 +1,6 @@
 {
   "homepage": "http://AsmaSaid.github.io/Crypto-tracker-react-app",
-  "name": "react-api-crypto-tracker-v1",
+  "name": "crypto-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
